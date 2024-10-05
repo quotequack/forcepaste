@@ -1,6 +1,7 @@
 # FORCE PASTE
 
-![forcepaste ui](https://imgur.com/a/IqH4zHn)
+![image](https://github.com/user-attachments/assets/e4d2c802-074f-4e0c-9a7e-5c3721df10da)
+
 
 **Forcepaste** is a simple tool to force paste text into a textbox even if it does not allow pasting.
 ## Usage
