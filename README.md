@@ -16,7 +16,11 @@ Dependencies: Cargo and rust.
 git clone https://github.com/quotequack/forcepaste
 cd forcepaste
 cargo build --release
-#### TO BE ABLE TO RUN THE PROGRAM FROM ANYWHERE IN THE TERMINAL:
-Linux: cd target/release && sudo cp forcepaste /usr/bin/
-Windows: good luck
 ```
+#### TO BE ABLE TO RUN THE PROGRAM FROM ANYWHERE:
+##### Linux
+```
+cd target/release && sudo cp forcepaste /usr/bin/
+```
+##### Windows
+If u compiled it on windows u should get a .exe: pin it to ur taskbar
