@@ -9,7 +9,7 @@ Just open the program and paste the text you want to the force paste input box a
 ## Why?
 I made this because I was annoyed that I could not paste text into a textbox that did not allow pasting. This is a simple and reliable solution to this problem.
 ## Compatability
-The program has only been tested in wayland linux but sicne it uses enigo it most provably works in other environments as well.
+The program has only been tested in wayland linux but since it uses enigo it most probably works in other environments as well.q
 ## Installation
 Dependencies: Cargo and rust.
 ```
@@ -23,4 +23,4 @@ cargo build --release
 cd target/release && sudo cp forcepaste /usr/bin/
 ```
 ##### Windows
-If u compiled it on windows u should get a .exe: pin it to ur taskbar
+If u compiled it on windows u should get a .exe: pin it to your taskbar
